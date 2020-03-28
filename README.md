@@ -1,2 +1,3 @@
 # kakao-clone
- kakao clone practice
+
+Kakao Desktop App Clone
